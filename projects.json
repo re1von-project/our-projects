@@ -4,5 +4,6 @@
 			"title": "Re:Von Project",
 			"previewPath": "assets/project-1-preview.png"
 		}
-	]
+	],
+	"emptyProjectPreviewPath": "assets/empty-project-preview.png"
 }
