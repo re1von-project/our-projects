@@ -1,8 +1,8 @@
 {
-	"our-projects": [
+	"ourProjects": [
 		{
 			"title": "Re:Von Project",
-			"preview": "assets/project-1-preview.png"
+			"previewPath": "assets/project-1-preview.png"
 		}
 	]
 }
