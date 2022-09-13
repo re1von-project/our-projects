@@ -2,7 +2,8 @@
 	"ourProjects": [
 		{
 			"title": "Re:Von Project",
-			"previewPath": "assets/project-1-preview.png"
+			"previewPath": "assets/project-1-preview.png",
+			"url": "http://127.0.0.1:5501"
 		}
 	],
 	"emptyProjectPreviewPath": "assets/empty-project-preview.png"
